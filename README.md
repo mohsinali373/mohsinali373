@@ -17,5 +17,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohsinali373"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohsinali373" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/6693mohsinj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohsinali373" /></a></p><br><br>
 
