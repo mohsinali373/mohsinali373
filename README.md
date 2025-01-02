@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [WordPress](https://seoacademy.pk/)
+- 🔭 I’m currently working on [WordPress](https://smartseo.ae/)
 
 - 📫 How to reach me **mohsinali.seo123@gmail.com**
 
