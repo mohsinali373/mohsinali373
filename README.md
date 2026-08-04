@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohsin-ali-93644a297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin-ali-93644a297" height="30" width="40" /></a>
 <a href="https://fb.com/mohsinali373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsinali373" height="30" width="40" /></a>
-<a href="https://instagram.com/black_devil_official373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_devil_official373" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shadowdiscipline_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_devil_official373" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
