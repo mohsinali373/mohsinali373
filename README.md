@@ -1,43 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
-<h3 align="center">SEO specialist & full-stack developer from Pakistan building WordPress plugins, automation tools and AI-powered platforms</h3>
+<picture><source media="(max-width: 700px)" srcset="assets/m/header.svg"><img src="assets/header.svg" width="100%" alt="Mohsin Ali - SEO Specialist and Full-Stack Developer from Pakistan" /></picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinali373&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinali373" /> </p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=34&lines=SEO+that+actually+ships;WordPress+plugins+%26+automation+tools;Self-hosted+AI+%26+server+automation" alt="SEO that actually ships. WordPress plugins and automation tools. Self-hosted AI and server automation." /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsinali373" alt="mohsinali373" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Automation Suite**
-
-- 🌱 I’m currently learning **AI model self-hosting, PHP/MySQL architecture**
-
-- 🤝 I’m looking for help with **Self-hosting open-weight AI models on a server**
-
-- 👨‍💻 All of my projects are available at [https://mohsinali373.github.io/portfolio/](https://mohsinali373.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://imagefinch.com/blog/](https://imagefinch.com/blog/)
-
-- 💬 Ask me about **WordPress plugins, SEO, Vibe Coding, WHM/cPanel automation, Server**
-
-- 📫 How to reach me **mohsinali.seo123@gmail.com**
-
-- ⚡ Fun fact **I automate everything I can, then spend the saved time automating more 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohsin-ali-93644a297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin-ali-93644a297" height="30" width="40" /></a>
-<a href="https://fb.com/mohsinali373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsinali373" height="30" width="40" /></a>
-<a href="https://instagram.com/darkpresence_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkpresence_01" height="30" width="40" /></a>
+<p align="center">
+<a href="https://mohsinali373.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://imagefinch.com/blog/"><img src="https://img.shields.io/badge/Blog-15152E?style=flat-square&logo=rss&logoColor=22D3EE" alt="Blog" /></a>
+<a href="https://linkedin.com/in/mohsin-ali-93644a297"><img src="https://img.shields.io/badge/LinkedIn-15152E?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:mohsinali.seo123@gmail.com"><img src="https://img.shields.io/badge/Email-15152E?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<a href="https://fb.com/mohsinali373"><img src="https://img.shields.io/badge/Facebook-15152E?style=flat-square&logo=facebook&logoColor=22D3EE" alt="Facebook" /></a>
+<a href="https://instagram.com/darkpresence_01"><img src="https://img.shields.io/badge/Instagram-15152E?style=flat-square&logo=instagram&logoColor=22D3EE" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<picture><source media="(max-width: 700px)" srcset="assets/m/s-about.svg"><img src="assets/s-about.svg" width="100%" alt="Currently" /></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/m/bento.svg"><img src="assets/bento.svg" width="100%" alt="Working on Automation Suite. Learning AI model self-hosting and PHP/MySQL architecture. Looking for help self-hosting open-weight AI models on a server. Ask me about WordPress plugins, SEO, Vibe Coding, WHM/cPanel automation and servers. Fun fact: I automate everything I can, then spend the saved time automating more. Portfolio: mohsinali373.github.io/portfolio. Blog: imagefinch.com/blog." /></picture>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohsin373"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohsin373" /></a></p><br><br>
+<picture><source media="(max-width: 700px)" srcset="assets/m/s-stack.svg"><img src="assets/s-stack.svg" width="100%" alt="Tech Stack" /></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/m/stack.svg"><img src="assets/stack.svg" width="100%" alt="HTML5, CSS3, JavaScript, PHP, Python, Java, .NET, React, Node.js, Laravel, Tailwind, WordPress, MySQL, MariaDB, MongoDB, Redis, Nginx, Linux, Git, Figma" /></picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsinali373&show_icons=true&locale=en&layout=compact" alt="mohsinali373" /></p>
+<picture><source media="(max-width: 700px)" srcset="assets/m/s-stats.svg"><img src="assets/s-stats.svg" width="100%" alt="GitHub" /></picture>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohsinali373&show_icons=true&icon_color=A78BFA&border_color=2D2D55&bg_color=15152E&title_color=22D3EE&text_color=F8FAFC&border_radius=14" width="397" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=mohsinali373&border=2D2D55&background=15152E&ring=22D3EE&fire=F472B6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=9CA3C7&dates=9CA3C7&stroke=2D2D55&border_radius=14" width="422" alt="GitHub streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinali373&show_icons=true&locale=en" alt="mohsinali373" /></p>
+<picture><source media="(max-width: 700px)" srcset="assets/m/footer.svg"><img src="assets/footer.svg" width="100%" alt="Let's build something useful together. mohsinali.seo123@gmail.com" /></picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinali373&" alt="mohsinali373" /></p>
+<p align="center"><a href="https://www.buymeacoffee.com/mohsin373"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee" /></a></p>
