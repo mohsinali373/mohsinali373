@@ -6,7 +6,7 @@
 <linearGradient id="connect-h" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#9bb7ff"/><stop offset="1" stop-color="#b7a48a"/></linearGradient>
 <pattern id="connect-dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a5bbef" opacity=".105"/></pattern>
 <clipPath id="connect-clip"><rect x="1" y="1" width="998" height="423" rx="26"/></clipPath>
-<linearGradient id="portrait-fade" gradientUnits="userSpaceOnUse" x1="0" y1="348" x2="0" y2="392">
+<linearGradient id="portrait-fade" gradientUnits="userSpaceOnUse" x1="0" y1="325" x2="0" y2="387">
   <stop offset="0" stop-color="#fff"/>
   <stop offset="1" stop-color="#fff" stop-opacity="0"/>
 </linearGradient>
